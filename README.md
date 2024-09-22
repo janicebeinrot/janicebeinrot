@@ -18,7 +18,6 @@ I intend to make this place an ecosystem of studies on data for the financial ma
     </a>
 </div>
 
-
 ## Living in
 
 :computer: Working with NodeJS (TypeScript) at Aftersale
